@@ -1,5 +1,11 @@
 <h3>Releases</h3>
 
+<h5>June 15, 2024</h5>
+<ul>
+<li>NEW: Goodbye Auto-Traefik. Hello Deployarr - https://github.com/anandslab/deployarr</li>
+<li>v3.3.3 will be the last version of Auto-Traefik.</li>
+</ul>
+
 <h5>v3.3.3 - June 6, 2024</h5>
 <ul>
 <li>NEW APPS: Nextcloud (not AIO version; uses existing Redis and MariaDB services), SABnzbd.</li>

@@ -1,3 +1,9 @@
+# IMPORTANT: Auto-Traefik has moved!
+
+Auto-Traefik is now called Deployarr: https://github.com/anandslab/deployarr
+
+v3.3.3 will be the last version of Auto-Traefik. All future updates will be available via the Deployarr repository.
+
 # What is Auto-traefik?
 Automatically setup Socket Proxy, Traefik (fetch LE SSL certificates), Authelia, Portainer, Dozzle, Uptime-Kuma, Homepage, and other apps. 
 
